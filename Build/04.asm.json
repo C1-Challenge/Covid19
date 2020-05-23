@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "C1 challenge",
+"productVersion": "1",
+"dataUrl": "04.asm.data.unityweb",
+"asmCodeUrl": "04.asm.asm.code.unityweb",
+"asmMemoryUrl": "04.asm.asm.memory.unityweb",
+"asmFrameworkUrl": "04.asm.asm.framework.unityweb",
+"TOTAL_MEMORY": 67108864,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
