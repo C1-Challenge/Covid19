@@ -6,7 +6,7 @@
 "asmCodeUrl": "04.asm.asm.code.unityweb",
 "asmMemoryUrl": "04.asm.asm.memory.unityweb",
 "asmFrameworkUrl": "04.asm.asm.framework.unityweb",
-"TOTAL_MEMORY": 67108864,
+"TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Light",
